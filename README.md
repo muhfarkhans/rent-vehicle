@@ -2,7 +2,7 @@
 
 ## How to run
 
-1. dcomposer install
+1. composer install
 2. cp .env.example .env
 3. php artisan key:generate
 4. setup your database credentials
